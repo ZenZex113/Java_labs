@@ -1,0 +1,4 @@
+Java lab2
+class LScanner
+Zenkov Alexander
+5030102/10101
