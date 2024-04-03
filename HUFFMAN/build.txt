@@ -7,7 +7,7 @@ Java Development Kit (JDK) версии 8 или выше.
 - Откройте терминал (командную строку).
 - Выберите директорию установки
 - Используйте команду Git для клонирования репозитория:
-  git clone https://github.com/ZenZex113/java.git
+  git clone https://github.com/ZenZex113/Java_labs
 - Перейдите в каталог проекта
 - Перейдите в каталог src
 - Используйте команду Javac для компиляции Java-кода:
